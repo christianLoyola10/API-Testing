@@ -9,7 +9,7 @@ Before running this project, ensure you have the following pre-requisites set up
 git clone https://github.com/christianLoyola10/API-Testing.git
 
 # 2. Navigate to the Project Directory:
-cd APIAutomationChallenge
+cd API-Testing
 
 # 3. Build the Project:
 mvn clean install
