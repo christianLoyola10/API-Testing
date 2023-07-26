@@ -15,5 +15,5 @@ mvn clean install
 mvn test
 
 # Execution
-# To execute the tests in IDE, make sure to Run As "Junit Test" the followin .java file.
+## To execute the tests in IDE, make sure to Run As "Junit Test" the following .java file.
 src\test\java\com\apiautomationchallenge\cucumber\AppRunner.java
